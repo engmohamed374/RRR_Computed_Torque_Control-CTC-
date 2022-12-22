@@ -1,7 +1,7 @@
 # RRR_Computed_Torque_Control(CTC)
 Control of a 3DOF RRR serial manipulator.
 ## Computed Tourque Control 
-A well-known robotic controller based on the nonlinear control technique feedback linearization. Simply it "theoretically" eliminates the system non-linearities represented in the M, C, and G matrices in the robotic equation of motion:
+A well-known robotic controller based on the nonlinear control technique feedback linearization. In a simple manner, it "theoretically" eliminates the system non-linearities represented in the M, C, and G matrices in the robotic equation of motion:
 
 ![robotic eqn. of motion](https://github.com/engmohamed374/RRR_Computed_Torque_Control-CTC-/blob/main/eqn.gif "robotic eqn. of motion")
 
