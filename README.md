@@ -5,7 +5,7 @@ A well-known robotic controller based on the nonlinear control technique feedbac
 
 ![robotic eqn. of motion](https://github.com/engmohamed374/RRR_Computed_Torque_Control-CTC-/blob/main/eqn.gif "robotic eqn. of motion")
 
-As shown in the figure below it is easy to understand that the control cosists of two loops, the inner loop which is responsiple of eliminating the systemm nonlinearities, and the outer loop which is responsible of the motion control. The inner loop is the application of the feedback linearization technique while the outer loop is just a linear control technique known as PID control.
+As shown in the figure below, it is easy to understand that the control cosists of two loops, the inner loop which is responsible for eliminating the systemm nonlinearities, and the outer loop which is responsible for the motion control. The inner loop is the application of the feedback linearization technique while the outer loop is just a linear control technique known as PID control.
 
 ![CTC](https://github.com/engmohamed374/RRR_Computed_Torque_Control-CTC-/blob/main/CTC.png "CTC")
 
