@@ -11,3 +11,9 @@ As shown in the figure below, it is easy to understand that the control cosists 
 
 ## How To Use
 Just run the file named parameters_Values, It shall simulate the system and plot the results which are the position, velocity, acceleration, and thier errors for each link . It is important to mention that the PID controller used in this simulation is a Simulink block and its parameters had been already tuned. You can also replace it with your own PID, but I chose to use the Simulink block because it can be tuned by just one click.
+## Contact
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mohamed-eid-70a6991a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
